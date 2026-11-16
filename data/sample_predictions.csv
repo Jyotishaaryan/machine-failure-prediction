@@ -1,0 +1,4 @@
+Product ID,Type,Air temperature [K],Process temperature [K],Rotational speed [rpm],Torque [Nm],Tool wear [min],failure_probability,machine_failure_prediction
+M14860,M,298.1,308.6,1551,42.8,0,0.0,0
+L47181,L,298.2,308.7,1408,46.3,3,0.0,0
+L47230,L,298.9,309.1,2861,4.6,143,0.9999,1

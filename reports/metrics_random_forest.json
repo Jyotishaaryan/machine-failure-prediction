@@ -1,0 +1,25 @@
+{
+  "model": "random_forest",
+  "pr_auc": 0.8583416029641393,
+  "roc_auc": 0.9703979417854098,
+  "precision": 0.9387755102040817,
+  "recall": 0.6764705882352942,
+  "f1": 0.7863247863247863,
+  "f2": 0.7165109034267912,
+  "confusion_matrix": [
+    [
+      1929,
+      3
+    ],
+    [
+      22,
+      46
+    ]
+  ],
+  "best_params": {
+    "clf__max_depth": null,
+    "clf__min_samples_leaf": 1,
+    "clf__n_estimators": 300
+  },
+  "cv_pr_auc": 0.8669536844954605
+}
